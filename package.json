@@ -1,6 +1,7 @@
 {
   "name": "vue3-action-demo",
   "version": "0.1.0",
+  "homepage": "https://DeLIciousEgg/github.io/vue3-action-demo",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
